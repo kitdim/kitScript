@@ -1,9 +1,9 @@
 # kitScript
+![image](https://github.com/kitdim/kitScript/assets/45449261/ab1a425a-86b9-4431-8d1a-adcc1df5ab2f)
+<br/>
 ### Расположение
 - Собранное решение хранится в bin\Release\net6.0-windows
 - Скрипты sql хранятся в папке scripts
 - Ответы в папке answer
 ### Запуск
-Запуск осуществляет KitScriptWPF.exe
-### Окно запуска
-![image](https://github.com/kitdim/kitScript/assets/45449261/1d201358-40d5-4447-a0dd-dddc293b59a6)
+<p>Запуск осуществляет KitScriptWPF.exe</p>
